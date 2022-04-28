@@ -1,0 +1,51 @@
+/* GLOBAL */
+.active-nav {
+    border-bottom: solid 1px rgb(0, 162, 255);
+    color: rgb(0, 162, 255);
+}
+
+/* Bebas Neue - Bold
+    Herr Von Muellerhoff, Mr Dafoe - carly
+*/
+
+
+.header-container {
+    z-index: 11111;
+    position: sticky;
+    top: 0px;
+    height: 80px;
+    overflow: hidden;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-container-bg {
+    background-color: white;
+    color: black;
+}
+
+.header-content {
+    width: 85%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links {
+    display: flex;
+}
+
+.nav-links a {
+    text-decoration: none;
+    margin: 5px 14px;
+    font-size: 14px;
+}
+
+.nav-links a:hover {
+    border-bottom: solid 1px rgb(0, 162, 255);
+    color: rgb(0, 162, 255);
+}

@@ -1,0 +1,80 @@
+[
+    {
+        "id": "1s",
+        "menuTitle": {
+            "title": "Software Solutions",
+            "d": ""
+        },
+        "menuDetails": {
+            "title": "Software Solutions",
+            "paragraph": "Get your business a perfect software built by our super qualified team. Manage things better than your competitor. 20% of your business time are wasted due to manual processes. Get used to develop you a custom software. Spend your time wisely on more impactful business works. We have expertise at latest cutting edge web technologies to build any challenging web applications/software/ERP. Get your custom software solutions stack built by Qtec Solution Limited.",
+            "btnLink": "",
+            "btnName": "Let's Talk"
+        }
+    },
+    {
+        "id": "2s",
+        "menuTitle": {
+            "title": "Analytical Solutions",
+            "d": ""
+        },
+        "menuDetails": {
+            "title": "Analytical Solutions",
+            "paragraph": "The world is currently using the power of data. It's the new oil for us! Are you falling behind for not using your busiess data properly? We are here to help you with that. Having in house data and analytical team is super expensive. we Qtec data team, with experience will do it for you. You need to sit back, relax and take action accordingly from the information we provide from analyzing data.",
+            "btnLink": "",
+            "btnName": "Let's Find Out"
+        }
+    },
+    {
+        "id": "3s",
+        "menuTitle": {
+            "title": "Consultancy",
+            "d": ""
+        },
+        "menuDetails": {
+            "title": "Consultancy",
+            "paragraph": "Thing about expanding your business with newest technologies and leverage the best? We are here to help with consultancy. You have an idea, plan, vision? Not sure about which technology will work better fort that? Your development team is often on stack with difficult problems? Spending a lot of time with less results? How about your business need a tech solution and you are not so sure about how to make a super cool team! If you are experiencing one of those or other technological problems, we are on the same page!",
+            "btnLink": "",
+            "btnName": "Let's Consult"
+        }
+    },
+    {
+        "id": "4s",
+        "menuTitle": {
+            "title": "UI/UX Design",
+            "d": ""
+        },
+        "menuDetails": {
+            "title": "UI/UX Design",
+            "paragraph": "Having perfect UI with perfect UX doesn't always happen. You need super excellent team for that. Haring an 'X-Factored-Team' is not always easy. That's why we are here with UI/UX as service and solution, the best in business within budget. Have a creative idea?Having perfect UI with perfect UX doesn't always happen. You need super excellent team for that. Haring an 'X-Factored-Team' is not always easy. That's why we are here with UI/UX as service and solution, the best in business within budget. Have a creative idea?",
+            "btnLink": "",
+            "btnName": "Let's Design"
+        }
+    },
+    {
+        "id": "5s",
+        "menuTitle": {
+            "title": "Mobile Applications",
+            "d": ""
+        },
+        "menuDetails": {
+            "title": "Mobile Applications",
+            "paragraph": "People spend a lot of their time in mobile phones. It's high time for your business to be in customer's phone. We are developing mobile applications in Hot/newer technologies and like Kotlin/Flutter. Qtec Solution Limited is able to provide any kind of mobile application solutions for your business.",
+            "btnLink": "",
+            "btnName": "Let's Build"
+        }
+    },
+    {
+        "id": "6s",
+        "menuTitle": {
+            "title": "SQA Services",
+            "d": ""
+        },
+        "menuDetails": {
+            "title": "SQA Services",
+            "paragraph": "The Qtec Solution Limited provides a variety of Software Quality Assurence(SQA) Service for the clients. Often, tests like automated testing, load testing, TPS testing, Performence Testing, Capability Testing, Service Testing Content Testing, Design Testing, Usibility Testing and wide range of testing are offered in this service.",
+            "btnLink": "",
+            "btnName": "Let's Consult"
+        }
+    }
+]

@@ -1,0 +1,43 @@
+.about-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.about-content{
+    width: 85%;
+}
+
+/* INDUSTRY INTRO  */
+
+.about-content1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+@media screen and (max-width:686px) {
+    .about-content1{
+        flex-direction: column;
+    }
+    .about-content1-img{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .about-content1-text{
+        width: 100%;
+        padding-left: 0;
+    }
+}
+
+/* .about-content1-img{
+    background: url('../../assets/cover-photos/mars-sector-6-IgUR1iX0mqM-unsplash.jpg');
+    background-position:center;
+    background-size: cover;
+} */
+
+.about-content1-text-heading{
+    color: rgb(0, 165, 255);
+}
+.about-content1-text-discription{
+    color: grey;
+}

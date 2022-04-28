@@ -1,0 +1,10 @@
+.project-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.project-content{
+    width: 60%;
+}

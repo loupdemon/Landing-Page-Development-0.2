@@ -1,0 +1,33 @@
+/* Bebas Neue - Bold
+    Herr Von Muellerhoff, Mr Dafoe - carly
+*/
+
+.App {
+    background: url('./assets/donald-giannatti-Wj1D-qiOseE-unsplash.jpg');
+    background-position: initial;
+    background-size: 100% 850px;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width:686px) {
+    .App{
+        background-size: 200% 1070px;
+    }
+}
+
+/* GLOBAL  */
+
+.classic-btn {
+    padding: 14px 40px;
+    border-radius: 30px;
+    border: 1px solid rgb(0, 162, 255);
+
+
+    background-color: rgb(0, 162, 255);
+    color: white;
+}
+
+.classic-btn:hover {
+    background-color: transparent;
+    color: rgb(0, 162, 255);
+}

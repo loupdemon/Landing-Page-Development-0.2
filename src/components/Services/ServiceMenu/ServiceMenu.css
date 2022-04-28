@@ -1,0 +1,12 @@
+.menu-item {
+    font-size: 18px;
+}
+
+.menu-item:hover {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.active-service-menu{
+    font-weight: bold;
+}

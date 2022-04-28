@@ -1,0 +1,41 @@
+[
+    {
+        "id":1,
+        "img": "https://5.imimg.com/data5/SELLER/Default/2021/12/YV/SU/EM/36591397/freight-forwarding-broker-500x500.jpg",
+        "time": {
+            "date": "10",
+            "month": "Feb",
+            "year": "2020"
+        },
+        "text": {
+            "title": "Extracting Information from Data",
+            "details": "Someone said, ‘Look at data like you’re looking at your Girlfriend’. Yeah, to get information from a data set, you need to look at it in a different way!"
+        }
+    },
+    {
+        "id":2,
+        "img": "https://www.code-brew.com/wp-content/uploads/2019/10/Header-Image.jpg",
+        "time": {
+            "date": "20",
+            "month": "Mar",
+            "year": "2021"
+        },
+        "text": {
+            "title": "Multi-Vendor Ecommerce",
+            "details": "What are the Multi-Vendor eCommerce Websites? As the name suggests, a multi-vendor website or store is a platform for third-party vendors to sell in one place. In simple terms, it is a big shop that contains various small shops that are run by individual sellers."
+        }
+    },
+    {
+        "id":3,
+        "img": "https://moveon.com.bd/storage/uploads/1gcBekR-1616071202.jpg",
+        "time": {
+            "date": "07",
+            "month": "April",
+            "year": "2022"
+        },
+        "text": {
+            "title": "Buy from AliBaba with Bkash",
+            "details": "MoveOn is an experience-based marketplace that brings people more ways to get the most out of their desire to outreach their dream of shopping overseas in dynamic locations"
+        }
+    }
+]
